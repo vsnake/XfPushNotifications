@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZGIpKFqpKZAmiXDitGRZX5h+PW8OzAvHa0ZXa5HYFWCKZ5UVDw010MxsElvqHblMs5HmTsH045i2uyz/afTaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v_sna\\Source\\Repos\\xfnotificationspg\\xfnotificationspg.iOS\\xfnotificationspg.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v_sna\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
